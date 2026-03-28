@@ -1,4 +1,4 @@
-# 🔭 GSOC 2026 Submission - ML4SCI DeepLense
+#  GSOC 2026 Submission - ML4SCI DeepLense
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Latest-orange)
@@ -47,9 +47,9 @@ If you wish to run the pipelines locally, clone the repository:
 git clone [https://github.com/Mayar-hany-2005/DeepLense-GSoC-2026.git](https://github.com/Mayar-hany-2005/DeepLense-GSoC-2026.git)
 cd DeepLense-GSoC-2026
 
-```bash
-jupyter notebook
-📬 Contact & Author
-```bash
+
+
+###📬 Contact & Author
+
 Mayar Hany * GitHub: @Mayar-hany-2005
 Email: [اmayarhany1999@gmail.com]
