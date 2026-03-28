@@ -13,8 +13,8 @@ for filepath in glob.glob('**/*.ipynb', recursive=True):
             
             with open(filepath, 'w', encoding='utf-8') as f:
                 json.dump(data, f, indent=1)
-            print(f"✅ Fixed: {filepath}")
+            print(f" Fixed: {filepath}")
     except Exception as e:
         pass
 
-print("🚀 All notebooks cleaned and ready for GitHub!")
+print(" All notebooks cleaned and ready for GitHub!")
