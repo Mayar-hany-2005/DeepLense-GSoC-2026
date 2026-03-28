@@ -47,8 +47,9 @@ If you wish to run the pipelines locally, clone the repository:
 git clone [https://github.com/Mayar-hany-2005/DeepLense-GSoC-2026.git](https://github.com/Mayar-hany-2005/DeepLense-GSoC-2026.git)
 cd DeepLense-GSoC-2026
 
+```bash
 jupyter notebook
 📬 Contact & Author
+```bash
 Mayar Hany * GitHub: @Mayar-hany-2005
-
 Email: [اmayarhany1999@gmail.com]
